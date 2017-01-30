@@ -1,0 +1,13 @@
+{
+    "name": "umpirsky/eps",
+    "require": {
+        "fabpot/goutte": "^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saša Stamenković",
+            "email": "umpirsky@gmail.com"
+        }
+    ]
+}
