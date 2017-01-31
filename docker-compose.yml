@@ -1,0 +1,11 @@
+version: "2"
+
+services:
+    php:
+        image: php:7.1
+        volumes:
+            - ./:/var/www/eps
+    python:
+        image: python:3.3
+        volumes:
+            - ./:/var/www/eps
